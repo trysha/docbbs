@@ -1,0 +1,41 @@
+<+>		Debug
+<A>		Sysop commands
+<B>		Change eXpress beeps
+<b>		Read forum backward
+<C>		Config menu
+<D>		change Doing field
+<^E>		Enter message with header
+<e>		enter message normally
+<E>		enter (upload)
+<f>		read forum forward
+<F>		show Fortune
+<G>		Goto next room
+<Q>		Ask a question of a guide
+<i>		forum information
+<j>		jump to a room name/number
+<k>		known rooms list
+<l>		logout
+<n>		read new msgs
+<o>		read old msgs reverse
+<p>		profile user
+<P>		profile user (full info)
+<s>		skip room
+<S>		skip to
+<t>		Current time
+<u>		ungoto last room
+<v>		express -1
+<V>		Validate new users
+<^W>		(clientonly) show friends online
+<w>		Who's online?
+<W>		short wholist
+<x>		send eXpress message
+<X>		toggle eXpress status
+<^X>		check old X messages
+<y>		yell
+<z>		zaproom
+<0-9>		quickX
+<#>		Readroom by number
+<->		read last n msgs
+<%>		toggle guideflag status
+<@>		aidelist
+<">		quote Xs to Sysop

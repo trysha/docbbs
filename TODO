@@ -1,0 +1,19 @@
+Relogging in will cause errno # 11 in sem_unlock.  ?
+SILC
+OVERRIDE
+Re-check new account creation
+Make username change to use same number.
+Would be nice to have a <r>eadall and/or e<x>press all command that reads
+*all* data.
+
+*** Message (#13) from Grog at 19:23 on Apr 17, 2001 ***
+>Well, while I go out and pick up my sub, I'll just drop these two line items,
+>since I don't really have a clue about how to make source changes now. ;)
+>1. Change the Tranquility Base> message back to "That's one small no for (a)
+>   luser, one giant no-no for luserkind."  (Like way back on old old eschwa.)
+>2. Perhaps the log out message, for a short while, should be
+
+
+*** Message (#14) from Grog at 19:23 on Apr 17, 2001 ***
+>   "You are the weakest link.  Goodbye."
+

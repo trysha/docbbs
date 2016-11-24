@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Certs
+ssl/certs/server/*.pem
+ssl/certs/server/*.0

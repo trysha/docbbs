@@ -1,0 +1,25 @@
+Quick HOWTO:
+
+ - untar the src (duh!)
+ - make bbs user and home dir
+ - mkdirs:
+	bin/
+	core/
+	core/bbs/
+	core/bbsqueued/
+	data/
+	etc/
+	etc/who/
+	help/
+	message/
+	message/desc/
+	var/
+
+ - edit bbs.h
+ - run setup program, compile the BBS, and set the binary in ~/bin.
+
+Please read the TODO file for known issues.
+
+On solaris, set semsys:seminfo_semmnu=100 in /etc/system seems to control
+number of possible users.
+
