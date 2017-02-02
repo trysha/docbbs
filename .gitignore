@@ -35,3 +35,7 @@
 # Certs
 ssl/certs/server/*.pem
 ssl/certs/server/*.0
+
+# Resultant Executables
+bbs
+setupbbs

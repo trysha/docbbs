@@ -4,7 +4,7 @@
 #SSLLIB=-lssl -lcrypto
 #SSLINC= -I/usr/local/ssl/include
 CFLAGS= $(SSLINC)# -D_SSL
-LIBS= $(SSLLIB) -lcrypt -lnsl -lsocket
+LIBS= $(SSLLIB) -lcrypt
 CC= gcc
  
 .c.o:

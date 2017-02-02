@@ -5,7 +5,7 @@
 
 /* Configuration constants */
 #define BBSNAME	     "the eschwa BBS"
-#define BBSUID       1002		/* UID of owner of all BBS files    */
+#define BBSUID       1001		/* UID of owner of all BBS files    */
 #define BBSGID       15			/* GID of owner of all BBS files */
 #define NXCONF       60			/* Number of slots in X config */
 #define MAILMSGS     200		/* Number of mail messages per user */
@@ -19,7 +19,7 @@
 
 /* System wide file constants */
 
-#define ROOT        "/home/doc/"             /* root directory of all BBS stuff */
+#define ROOT        "/home/bbs/"             /* root directory of all BBS stuff */
 
 #ifdef _SSL
 #define SSLCERTIFICATE	ROOT"etc/sslcert"
